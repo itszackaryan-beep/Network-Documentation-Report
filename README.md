@@ -259,7 +259,6 @@ All figures referenced in this report are available in [`docs/Screenshots/`](doc
 | Figure | File |
 |---|---|
 | Figure 1 – VMware Virtual Network Environment | `docs/fig01-vmware-virtual-network-environment.jpg`|
-
 | Figure 2 – Windows Server 2022 IP Configuration | `docs/fig02-windows-server-2022-ip-configuration.jpg`|
 | Figure 3 – Windows 7 IP Configuration | `docs/fig03-windows-7-ip-configuration.jpg` |
 | Figure 4 – Kali Linux IP Configuration | `docs/fig04-kali-linux-ip-configuration.jpg` |
