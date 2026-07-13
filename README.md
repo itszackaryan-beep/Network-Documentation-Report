@@ -77,7 +77,7 @@ The objective of this project is to:
 
 **Figure 1 — VMware Virtual Network Environment**
 
-![VMware Virtual Network Environment](docs/Screenshots/fig01-vmware-virtual-network-environment.jpg)
+![VMware Virtual Network Environment](docs/fig01-vmware-virtual-network-environment.jpg)
 
 **Description:** The VMware Workstation environment contains four virtual machines:
 Windows Server 2022, Kali Linux, Ubuntu Linux, and Windows 7. These systems are
@@ -104,25 +104,25 @@ communication purposes.
 
 ### Figure 2 — Windows Server 2022 IP Configuration
 
-![Windows Server 2022 IP Configuration](docs/Screenshots/fig02-windows-server-2022-ip-configuration.jpg)
+![Windows Server 2022 IP Configuration](docs/fig02-windows-server-2022-ip-configuration.jpg)
 
 **Description:** IP configuration information obtained using the `ipconfig` command.
 
 ### Figure 3 — Windows 7 IP Configuration
 
-![Windows 7 IP Configuration](docs/Screenshots/fig03-windows-7-ip-configuration.jpg)
+![Windows 7 IP Configuration](docs/fig03-windows-7-ip-configuration.jpg)
 
 **Description:** IP configuration information obtained using the `ipconfig` command.
 
 ### Figure 4 — Kali Linux IP Configuration
 
-![Kali Linux IP Configuration](docs/Screenshots/fig04-kali-linux-ip-configuration.jpg)
+![Kali Linux IP Configuration](docs/fig04-kali-linux-ip-configuration.jpg)
 
 **Description:** IP configuration information obtained using the `ip a` command.
 
 ### Figure 5 — Ubuntu Linux IP Configuration
 
-![Ubuntu Linux IP Configuration](docs/Screenshots/fig05-ubuntu-linux-ip-configuration.jpg)
+![Ubuntu Linux IP Configuration](docs/fig05-ubuntu-linux-ip-configuration.jpg)
 
 **Description:** IP configuration information obtained using the `ip a` command.
 
@@ -144,7 +144,7 @@ communication purposes.
 
 ### Figure 6 — Windows Server Open Ports
 
-![Windows Server Open Ports](docs/Screenshots/fig06-windows-server-open-ports.jpg)
+![Windows Server Open Ports](docs/fig06-windows-server-open-ports.jpg)
 
 **Command Used:**
 ```powershell
@@ -158,7 +158,7 @@ active network connections, listening ports, and associated process identifiers.
 
 ### Figure 7 — Kali Linux Open Ports
 
-![Kali Linux Open Ports](docs/Screenshots/fig07-kali-linux-open-ports.jpg)
+![Kali Linux Open Ports](docs/fig07-kali-linux-open-ports.jpg)
 
 **Command Used:**
 ```bash
@@ -171,7 +171,7 @@ the system.
 
 ### Figure 8 — Ubuntu Open Ports
 
-![Ubuntu Open Ports](docs/Screenshots/fig08-ubuntu-open-ports.jpg)
+![Ubuntu Open Ports](docs/fig08-ubuntu-open-ports.jpg)
 
 **Command Used:**
 ```bash
@@ -258,14 +258,15 @@ All figures referenced in this report are available in [`docs/Screenshots/`](doc
 
 | Figure | File |
 |---|---|
-| Figure 1 – VMware Virtual Network Environment | `docs/Screenshots/fig01-vmware-virtual-network-environment.jpg` |
-| Figure 2 – Windows Server 2022 IP Configuration | `docs/Screenshots/fig02-windows-server-2022-ip-configuration.jpg` |
-| Figure 3 – Windows 7 IP Configuration | `docs/Screenshots/fig03-windows-7-ip-configuration.jpg` |
-| Figure 4 – Kali Linux IP Configuration | `docs/Screenshots/fig04-kali-linux-ip-configuration.jpg` |
-| Figure 5 – Ubuntu Linux IP Configuration | `docs/Screenshots/fig05-ubuntu-linux-ip-configuration.jpg` |
-| Figure 6 – Windows Server Open Ports | `docs/Screenshots/fig06-windows-server-open-ports.jpg` |
-| Figure 7 – Kali Linux Open Ports | `docs/Screenshots/fig07-kali-linux-open-ports.jpg` |
-| Figure 8 – Ubuntu Open Ports | `docs/Screenshots/fig08-ubuntu-open-ports.jpg` |
+| Figure 1 – VMware Virtual Network Environment | `docs/fig01-vmware-virtual-network-environment.jpg`|
+
+| Figure 2 – Windows Server 2022 IP Configuration | `docs/fig02-windows-server-2022-ip-configuration.jpg`|
+| Figure 3 – Windows 7 IP Configuration | `docs/fig03-windows-7-ip-configuration.jpg` |
+| Figure 4 – Kali Linux IP Configuration | `docs/fig04-kali-linux-ip-configuration.jpg` |
+| Figure 5 – Ubuntu Linux IP Configuration | `docs/fig05-ubuntu-linux-ip-configuration.jpg`|
+| Figure 6 – Windows Server Open Ports | `docs/fig06-windows-server-open-ports.jpg` |
+| Figure 7 – Kali Linux Open Ports | `docs/fig07-kali-linux-open-ports.jpg` |
+| Figure 8 – Ubuntu Open Ports | `docs/fig08-ubuntu-open-ports.jpg` |
 
 ---
 
