@@ -254,7 +254,7 @@ improve the overall security posture of the environment.
 
 ## 🖼️ Screenshots
 
-All figures referenced in this report are available in [`docs/Screenshots/`](docs/Screenshots/):
+All figures referenced in this report are available in [`docs/`](docs/):
 
 | Figure | File |
 |---|---|
