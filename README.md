@@ -279,8 +279,8 @@ Network-Documentation-Report/
 ├── .gitignore
 │
 └── docs/
-    ├── Network_Documentation_Report.pdf   # Original full report
-    └── Screenshots/                       # Figures 1–8 extracted from the report
+    ├── Network_Documentation_Report.pdf   # Original 
+    └── Screenshots/                       
 ```
 
 ---
